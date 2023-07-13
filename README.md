@@ -2,7 +2,7 @@
 * 👂 My name is Tuğba Aydın
 * 🌱 I’m already learning software in every day until the software is finished 
 * 🤔 I’m looking for help with new job.
-* ❤️ I love NET Core Framework and Angular Framework.
+* ❤️ I love .NET Core Framework and Angular Framework.
 * ⚡ Fun fact: Developing full stack web projects.
 
 <h4> 🚀 &nbsp;Some Tools I Have Used and Learned</h4>
