@@ -5,7 +5,7 @@
 * ❤️ I love NET Core Framework and Angular Framework.
 * ⚡ Fun fact: Developing full stack web projects.
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h4> 🚀 &nbsp;Some Tools I Have Used and Learned</h4>
 <p align="left">
  <img alt="Visual Studio" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Studio_Logo_%282013-2017%29.svg" width="30" height="30">
 <img alt="Vscode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="30" height="30">
@@ -24,7 +24,7 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> 
 </p>
 
-<h2>📫 How to reach me </h2>
+<h4>📫 How to reach me </h4>
 <p align="left">
   <a href="https://www.linkedin.com/in/tu%C4%9Fba-ayd%C4%B1n/"><img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" width="30" height="30"></a>
     <a href="mailto:tugba.aydinn.94@gmail.com"><img alt="Jupyter" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" height="30"></a>
